@@ -1,0 +1,128 @@
+[
+   {
+      "titel": "Summerproof met Sonja",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/0/7/3/5/9200000110145370.jpg",
+      "auteur": ["Sonja Bakker"],
+      "uitgave": "mei 2019",
+      "paginas": 104,
+      "taal": "Nederlands",
+      "ean": "9789078211433"
+   },
+   {
+      "titel": "Front-End Web Development a Complete Guide",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/7/3/1/7/9200000096507137.jpg",
+      "auteur": ["Gerardus Blokdyk"],
+      "uitgave": "juli 2018",
+      "ean": "9780655315254",
+      "paginas": 274,
+      "taal": "Engels"
+   },
+   {
+      "titel": "Delft design guide",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/8/6/6/6/9200000014636668.jpg",
+      "auteur": ["Yvo Zijlstra", "Jaap Daalhuizen", "Roos van der Schoor", "Annemiek van Boeijen"],
+      "uitgave": "september 2013",
+      "ean": "9789063693275",
+      "paginas": 176,
+      "taal": "Engels"
+   },
+   {
+      "titel": "Huis vol leugens",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/6/4/9/0/9200000107050946.jpg",
+      "auteur": ["Nicci French"],
+      "uitgave": "juli 2019",
+      "ean": "9789026343315",
+      "paginas": 400,
+      "taal": "Nederlands"
+   },
+   {
+      "titel": "Front-End Web Development",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/4/4/1/7/9200000050597144.jpg",
+      "auteur": ["Chris Aquino", "Todd Gandee"],
+      "uitgave": "juni 2016",
+      "paginas": 300,
+      "taal": "Engels",
+      "ean": "9780134433943"
+   },
+   {
+      "titel": "Dog Man",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/6/7/3/5/9200000091585376.jpg",
+      "auteur": ["Dav Pilkey"],
+      "uitgave": "juni 2018",
+      "paginas": 231,
+      "taal": "Nederlands",
+      "ean": "9789492899019"
+   },
+   {
+      "titel": "Learning Bootstrap 4",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/6/0/4/9/9200000060229406.jpg",
+      "auteur": ["Matt Lambert"],
+      "uitgave": "januari 2016",
+      "paginas": 246,
+      "taal": "Engels",
+      "ean": "9781785881008"
+   },
+   {
+      "titel": "VEG",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/9/3/1/8/9200000107638139.jpg",
+      "auteur": ["Jamie Oliver"],
+      "uitgave": "augustus 2019",
+      "paginas": 312,
+      "taal": "Nederlands",
+      "ean": "9789021573397"
+   },
+   {
+      "titel": "Zij die moet sterven",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/0/0/6/9/9200000107459600.jpg",
+      "auteur": ["David Lagercrantz"],
+      "uitgave": "augustus 2019",
+      "paginas": 304,
+      "taal": "Nederlands",
+      "ean": "9789056725723"
+   },
+   {
+      "titel": "De Geschiedenis van Nederland in 100 oude kaarten",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/1/5/3/8/9200000103398351.jpg",
+      "auteur": ["Marieke van Delft"],
+      "uitgave": "juni 2019",
+      "paginas": 400,
+      "taal": "Nederlands",
+      "ean": "9789401459075"
+   },
+   {
+      "titel": "Wees onzichtbaar",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/3/4/1/2/9200000071452143.jpg",
+      "auteur": ["Murat Isik"],
+      "uitgave": "mei 2019",
+      "paginas": 597,
+      "taal": "Nederlands",
+      "ean": "9789041422903"
+   },
+   {
+      "titel": "Houden van dingen die niet perfect zijn",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/1/2/7/0/9200000095410721.jpg",
+      "auteur": ["Haemin Sunim"],
+      "uitgave": "januari 2019",
+      "paginas": 272,
+      "taal": "Nederlands",
+      "ean": "9789022583722"
+   },
+   {
+      "titel": "De Zeven Zussen",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/0/5/3/4/9200000089454350.jpg",
+      "auteur": ["Lucinda Riley"],
+      "uitgave": "juni 2018",
+      "paginas": 592,
+      "taal": "Nederlands",
+      "ean": "9789401609371"
+   },
+   {
+      "titel": "Hands-On Full-Stack Web Development with ASP.NET Core",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/9/1/9/1/9200000101541919.jpg",
+      "auteur": ["Tamir Dresher", "Amir Zuker", "Shay Friedman"],
+      "uitgave": "oktober 2018",
+      "paginas": 478,
+      "taal": "Engels",
+      "ean": "9781788622882"
+   }
+]

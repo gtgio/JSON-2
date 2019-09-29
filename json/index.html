@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8">
+    <title>Sorteer boeken | Giovanni Martelli</title>
+    <meta name="author" content="Giovanni Martelli">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body lang="nl">
+    <h3>Copyright © <script>document.write(new Date().getFullYear());</script> All rights reserved | <a href="http://www.gmdevelopment.nl"  target="_blank">GM Development</a></h3>
+    <h1>Een selectie van boeken</h1>
+    <select id="kenmerk">
+      <option value="titel" selected>Titel</option>
+      <option value="auteur">Auteur(s)</option>
+      <option value="jsDatum">Datum Uitgave</option>
+      <option value="paginas">Aantal Bladzijden</option>
+      <option value="Taal">Taal</option>
+    </select>
+
+    <!-- radiobuttons voor oplopend en aflopend sorteren -->
+    <label><input type="radio" name="oplopend" value="1" checked="checked">oplopend</label>
+    <label><input type="radio" name="oplopend" value="-1">aflopend</label>
+    <div id="uitvoer"></div>
+    <script src="sorteervoorbeeld.js" charset="utf-8"></script>
+  </body>
+</html>

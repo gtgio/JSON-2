@@ -1,0 +1,16 @@
+.boekSelectie__cover {
+  max-width: 100px;
+}
+
+.boekSelectie__rij--accent {
+  background-color: #def;
+}
+
+.boekSelectie__data-cel {
+  padding: 1em;
+  vertical-align: top;
+}
+
+.boekSelectie__data-cel:nth-child(3) {
+  padding: 0;
+}
