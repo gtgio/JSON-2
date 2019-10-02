@@ -6,7 +6,9 @@
       "uitgave": "mei 2019",
       "paginas": 104,
       "taal": "Nederlands",
-      "ean": "9789078211433"
+      "ean": "9789078211433",
+      "prijs": 15.95,
+      "genre": " Dieet & Gezond"
    },
    {
       "titel": "Front-End Web Development a Complete Guide",
@@ -15,7 +17,9 @@
       "uitgave": "juli 2018",
       "ean": "9780655315254",
       "paginas": 274,
-      "taal": "Engels"
+      "taal": "Engels",
+      "prijs": 72.99,
+      "genre": "Managementboeken"
    },
    {
       "titel": "Delft design guide",
@@ -24,7 +28,9 @@
       "uitgave": "september 2013",
       "ean": "9789063693275",
       "paginas": 176,
-      "taal": "Engels"
+      "taal": "Engels",
+      "prijs": 29.49,
+      "genre": "Technisch ontwerp"
    },
    {
       "titel": "Huis vol leugens",
@@ -33,7 +39,9 @@
       "uitgave": "juli 2019",
       "ean": "9789026343315",
       "paginas": 400,
-      "taal": "Nederlands"
+      "taal": "Nederlands",
+      "prijs": 21.99,
+      "genre": "Thriller"
    },
    {
       "titel": "Front-End Web Development",
@@ -42,7 +50,9 @@
       "uitgave": "juni 2016",
       "paginas": 300,
       "taal": "Engels",
-      "ean": "9780134433943"
+      "ean": "9780134433943",
+      "prijs": 37.99,
+      "genre": "Computers & Informatica"
    },
    {
       "titel": "Dog Man",
@@ -51,7 +61,9 @@
       "uitgave": "juni 2018",
       "paginas": 231,
       "taal": "Nederlands",
-      "ean": "9789492899019"
+      "ean": "9789492899019",
+      "prijs": 14.99,
+      "genre": "Sciencefiction"
    },
    {
       "titel": "Learning Bootstrap 4",
@@ -60,7 +72,9 @@
       "uitgave": "januari 2016",
       "paginas": 246,
       "taal": "Engels",
-      "ean": "9781785881008"
+      "ean": "9781785881008",
+      "prijs": 38.99,
+      "genre": "Web programmeren"
    },
    {
       "titel": "VEG",
@@ -69,7 +83,9 @@
       "uitgave": "augustus 2019",
       "paginas": 312,
       "taal": "Nederlands",
-      "ean": "9789021573397"
+      "ean": "9789021573397",
+      "prijs": 29.99,
+      "genre": "Kookboeken"
    },
    {
       "titel": "Zij die moet sterven",
@@ -78,7 +94,9 @@
       "uitgave": "augustus 2019",
       "paginas": 304,
       "taal": "Nederlands",
-      "ean": "9789056725723"
+      "ean": "9789056725723",
+      "prijs": 22.99,
+      "genre": "Thriller"
    },
    {
       "titel": "De Geschiedenis van Nederland in 100 oude kaarten",
@@ -87,7 +105,9 @@
       "uitgave": "juni 2019",
       "paginas": 400,
       "taal": "Nederlands",
-      "ean": "9789401459075"
+      "ean": "9789401459075",
+      "prijs": 79.00,
+      "genre": "Geschiedenis"
    },
    {
       "titel": "Wees onzichtbaar",
@@ -96,7 +116,9 @@
       "uitgave": "mei 2019",
       "paginas": 597,
       "taal": "Nederlands",
-      "ean": "9789041422903"
+      "ean": "9789041422903",
+      "prijs": 24.99,
+      "genre": "Literatuur & Romans"
    },
    {
       "titel": "Houden van dingen die niet perfect zijn",
@@ -105,7 +127,9 @@
       "uitgave": "januari 2019",
       "paginas": 272,
       "taal": "Nederlands",
-      "ean": "9789022583722"
+      "ean": "9789022583722",
+      "prijs": 15.99,
+      "genre": "Mindfulness"
    },
    {
       "titel": "De Zeven Zussen",
@@ -114,7 +138,9 @@
       "uitgave": "juni 2018",
       "paginas": 592,
       "taal": "Nederlands",
-      "ean": "9789401609371"
+      "ean": "9789401609371",
+      "prijs": 12.99,
+      "genre": "Literatuur & Romans"
    },
    {
       "titel": "Hands-On Full-Stack Web Development with ASP.NET Core",
@@ -123,6 +149,41 @@
       "uitgave": "oktober 2018",
       "paginas": 478,
       "taal": "Engels",
-      "ean": "9781788622882"
+      "ean": "9781788622882",
+      "prijs": 43.99,
+      "genre": "Web programmeren"
+   },
+   {
+      "titel": "Pet Sematary",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/3/2/1/0/9200000100730123.jpg",
+      "auteur": ["Stephen King"],
+      "uitgave": "maart 2019",
+      "paginas": 432,
+      "taal": "Nederlands",
+      "ean": "9789021023229",
+      "prijs": 12.50,
+      "genre": "Horror"
+   },
+   {
+      "titel": "It",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/6/2/5/5/9200000077615526.jpg",
+      "auteur": ["Stephen King"],
+      "uitgave": "juli 2017",
+      "paginas": 1168,
+      "taal": "Engels",
+      "ean": "9781501182099",
+      "prijs": 30.99,
+      "genre": "Horror"
+   },
+   {
+      "titel": "Mythos",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/3/6/9/7/9200000088917963.jpg",
+      "auteur": ["Stephen Fry"],
+      "uitgave": "juli 2018",
+      "paginas": 464,
+      "taal": "Engels",
+      "ean": "9781405934138",
+      "prijs": 9.57,
+      "genre": "Literatuur & Romans"
    }
 ]

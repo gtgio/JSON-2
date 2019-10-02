@@ -112,7 +112,9 @@ let sorteerBoekObj = {
          "Uitgave",
          "Pagina's",
          "Taal",
-         "EAN"]);
+         "EAN",
+        "prijs",
+        "genre"]);
       for(let i=0; i<data.length; i++) {
          // geef rijen afwisselend een accent mee
          let accent = false;
@@ -131,7 +133,9 @@ let sorteerBoekObj = {
             data[i].uitgave,
             data[i].paginas,
             data[i].taal,
-            data[i].ean], accent);
+            data[i].ean,
+          data[i].prijs,
+        data[i].genre], accent);
       }
       document.getElementById("uitvoer").innerHTML = uitvoer;
    }
